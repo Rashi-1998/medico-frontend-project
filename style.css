@@ -1,0 +1,755 @@
+body {
+	overflow-x: hidden;
+	font-family: 'Open Sans' sans-serif;
+	line-height: 24px;
+
+}
+
+.contact_detail {
+	background-color: #37c6a8;
+
+}
+
+.detail {
+	display: flex;
+	list-style-type: none;
+	margin-left: 100px;
+}
+
+.detail li a {
+	text-decoration: none;
+}
+
+.bar {
+	margin-top: -20px;
+	margin-bottom: -20px;
+	display: fixed;
+}
+
+.nav-item {
+	display: inline-block;
+	margin-left: 40px;
+
+
+
+}
+
+.navbar-nav {
+
+	margin-left: 130px;
+}
+
+.logo {
+	display: fixed;
+	margin-top: -8px;
+	border: 2px solid #e7e7e7;
+	border-top: 0px;
+
+}
+
+.medical_services {
+	position: relative;
+}
+
+.carousel-control-prev {
+	position: absolute;
+	left: -80px;
+
+}
+
+.carousel-control-next {
+	position: absolute;
+	right: -80px;
+}
+
+.medical {
+
+
+	position: absolute;
+	top: 280px;
+}
+
+.medical12 {
+	background-color: #37c6a8;
+	width: 130px;
+
+}
+
+.medi {
+
+
+
+	position: absolute;
+	top: -400px;
+	left: -200px;
+
+
+}
+
+.medic {
+	position: absolute;
+	top: 360px;
+
+}
+
+
+
+.care {
+	font-family: 'open sans;', sans-serif;
+
+}
+
+.care1 {
+	line-height: 24px;
+	font-weight: 400px;
+	font-family: 'open Sans' sans-serif;
+}
+
+
+a.care1 {
+	text-decoration: none;
+}
+
+.index_box {
+	position: absolute;
+	bottom: -130px;
+	margin-left: 90px;
+}
+
+.index_box1 {
+	border: 4px solid #37c6a8;
+	background-image: url(C:/Users/rupes/Music/medico/images/images/icon_11.png);
+	background-repeat: no-repeat;
+
+}
+
+.index_box2 {
+	border: 4px solid #f4ac02;
+	background-image: url(C:/Users/rupes/Music/medico/images/images/icon_2.png);
+	background-repeat: no-repeat;
+
+}
+
+.index_box3 {
+	border: 4px solid #37c6a8;
+	background-image: url(C:/Users/rupes/Music/medico/images/images/icon_3.png);
+	background-repeat: no-repeat;
+
+}
+
+.icon1 {
+	margin-right: 296px;
+	margin-top: 10px;
+}
+
+.icon2 {
+	margin-right: 296px;
+	margin-top: 10px;
+}
+
+.icon3 {
+	margin-right: 296px;
+	margin-top: 10px;
+}
+
+.medical1 {
+	width: 130px;
+
+
+}
+
+.read {
+	background-color: #37c6a8;
+	border: 2px solid #37c6a8;
+	padding: 12px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.read:hover {
+	background-color: transparent;
+	color: #000000;
+}
+
+.read1 {
+	background-color: #37c6a8;
+	border: 2px solid #37c6a8;
+	padding: 12px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.read1:hover {
+	background-color: transparent;
+	color: #000000;
+}
+
+.read2 {
+	background-color: #37c6a8;
+	border: 2px solid #37c6a8;
+	padding: 12px;
+	display: inline-block;
+	text-decoration: none;
+
+}
+
+.read2:hover {
+	background-color: transparent;
+	color: #000000;
+}
+
+
+.medical_button {
+	margin-right: 280px;
+}
+
+.paragraph {
+	margin-left: 50px;
+}
+
+.total {
+	margin-right: 80px;
+}
+
+.button {
+	margin-right: 350px;
+}
+
+.para {
+
+	margin-right: 60px;
+}
+
+
+.about_medical0 {
+	margin-top: 180px;
+}
+
+.speciality {
+	color: #37c6a8;
+}
+
+
+.appointment {
+	background-image: url(C:/Users/rupes/Music/medico/images/images/appoint_img.jpg);
+	background-repeat: no-repeat;
+	margin-left: 100px;
+	margin-top: 15px;
+	color: white;
+
+
+}
+
+.emergency_call1 {
+
+	text-align: center;
+	background-color: #37c6a8;
+
+}
+
+.emergency_call1 {
+	margin-left: 680px;
+	padding: 30px;
+
+}
+
+.appointment_overlay {
+	background-color: rgba(60, 60, 60, 0.9);
+	margin-right: 20px;
+
+}
+
+
+.speciality {
+	color: #37c6a8;
+}
+
+
+.appointment {
+	background-image: url(C:/Users/rupes/Music/medico/images/images/appoint_img.jpg);
+	background-repeat: no-repeat;
+	margin-left: 100px;
+	margin-top: 15px;
+	color: white;
+
+
+}
+
+.emergency_call1 {
+
+	text-align: center;
+	background-color: #37c6a8;
+
+}
+
+.emergency_call1 {
+	margin-left: 680px;
+	padding: 30px;
+
+}
+
+.appointment_overlay {
+	background-color: rgba(60, 60, 60, 0.9);
+	margin-right: 20px;
+
+}
+
+
+.choose_us {
+	background-image: url(C:/Users/rupes/Music/medico/images/images/choose_bg.jpg);
+
+}
+
+.choose_overlay {
+	background-color: rgba(240, 240, 240, 0.9);
+}
+
+.choose_p1 {
+	padding: 100px;
+	padding-bottom: 50px;
+
+}
+
+
+
+.card-body {
+	position: relative;
+}
+
+.hvr {
+	position: absolute;
+	display: none;
+	background-color: #37c6a8;
+	bottom: 0;
+	width: 236px;
+	height: 109px;
+	margin-left: -18px;
+
+}
+
+.card-body:hover .hvr {
+	display: block;
+	background-color: #37c6a8;
+
+
+}
+
+.meet {
+	text-align: center;
+	padding: 50px;
+}
+
+.welcome {
+	margin-top: 50px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-image: url(C:/Users/rupes/Music/medico/images/images/abt_img_bg.jpg);
+	height: 400px;
+	background-size: 100%;
+}
+
+.welcome_overlay {
+	background-color: rgba(60, 60, 60, 0.7);
+	height: 400px;
+
+
+}
+
+.welcome_hospital {
+	padding: 100px;
+
+}
+
+.about_line {
+	display: inline-block;
+	position: relative;
+
+}
+
+.about_line:after {
+	content: '';
+	height: 2px;
+	width: 350px;
+	background-color: #37c6a8;
+	position: absolute;
+	top: 35px;
+	right: 0px;
+
+}
+
+.click {
+	background-color: #37c6a8;
+}
+
+.location {
+	font-size: 12px;
+}
+
+.upcoming_events {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	position: relative;
+
+}
+
+.arrow {
+	position: absolute;
+	background: #37c6a8;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	padding: 6px;
+	color: white;
+	left: 1300px;
+	margin-top: -600px;
+
+}
+
+.arrow1 {
+	position: absolute;
+	background: #37c6a8;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	padding: 6px;
+	margin-top: -600px;
+	margin-right: 300 px;
+	color: white;
+
+}
+
+.arrow:hover {
+	background: #f4ac02;
+}
+
+.arrow1:hover {
+	background: #f4ac02;
+}
+
+.img-flud {
+	height: 1200px;
+}
+
+
+.eve {
+	border: 1px solid transparent;
+	background-color: #e7e7e7;
+
+
+
+}
+
+.col:hover {
+	color: #37c6a8;
+}
+
+
+
+
+.post {
+	margin-top: 15px;
+}
+
+.post3 {
+	text-decoration: none;
+
+	color: #37c6a8;
+}
+
+.post3:hover {
+	color: #37c6a8;
+}
+
+.comment {
+	border: 1px solid transparent;
+	width: 70px;
+	line-height: 40px;
+
+}
+
+.likes {
+	border: 1px solid transparent;
+	width: 70px;
+	line-height: 40px;
+
+
+}
+
+.team {
+	position: relative;
+}
+
+.likes {
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 290px;
+	background-color: #fff;
+}
+
+.comment {
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 200px;
+	background-color: #fff;
+}
+
+.likes:hover {
+	background-color: #37c6a8;
+}
+
+.comment:hover {
+	background-color: #37c6a8;
+}
+
+.team1:hover {
+	transform: scale(1.1);
+	transition-delay: 0.5s;
+	transition-duration: 0.7s;
+
+}
+
+.blog3 {
+	background-image: url(C:/Users/rupes/Music/medico/images/images/evnt_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 100px;
+}
+
+.blog4_overlay {
+	background-color: rgba(60, 60, 60, 0.8);
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+
+.blog3 {
+	position: relative;
+}
+
+.saying {
+	position: absolute;
+	margin-top: 50px;
+}
+
+.plus {
+	margin-top: 100px;
+}
+
+
+
+.arr {
+	position: absolute;
+	background: #37c6a8;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	padding: 6px;
+	color: white;
+	left: 50px;
+	margin-top: -600px;
+	margin-left: 670px;
+
+
+
+}
+
+.arr1 {
+	position: absolute;
+	background: #37c6a8;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	padding: 6px;
+	margin-top: -600px;
+	margin-right: 400 px;
+	color: white;
+
+}
+
+.arr:hover {
+	background: #f4ac02;
+}
+
+.arr1:hover {
+	background: #f4ac02;
+}
+
+
+
+.book_appointment {
+	overflow-x: hidden;
+}
+
+.message {
+	width: 450px;
+}
+
+.box1 {
+	background-color: #37c6a8;
+}
+
+.time {
+	width: 200px;
+}
+
+.date {
+
+	width: 200px;
+
+}
+
+.submit {
+
+	margin-right: 305px;
+
+}
+
+.submit:hover {
+	background-color: #37c6a8;
+	border: 1px solid #fff;
+}
+
+.more5 {
+	color: #37c6a8;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.sp {
+	margin-right: 240px;
+}
+
+.more5 {
+	color: #37c6a8;
+	text-decoration: none;
+	margin-right: 170px;
+}
+
+
+.map {
+	background-image: url(C:/Users/DELL/Music/medico/images/images/png/googl_ED.jpg);
+	background-size: cover;
+	height: 500px;
+	margin-left: -20px;
+	margin-right: -20px;
+
+}
+
+.enquiry {
+	background-color: #37c6a8;
+	height: 150px;
+	margin-left: -20px;
+	margin-right: -20px;
+
+
+}
+
+.space {
+	padding: 50px;
+}
+
+.box {
+	box-shadow: 1px 1px 2px;
+
+}
+
+.box1 {
+	box-shadow: 1px 1px 1px;
+}
+
+.address {
+	background-color: #000000;
+
+	margin-left: -23px;
+	margin-right: -25px;
+}
+
+.box6 {
+	border: 1px solid #a9a9a9;
+	margin-right: 250px;
+	margin-bottom: -30px;
+}
+
+.opening_hours {
+	margin-left: 50px;
+}
+
+.opening_hours1 {
+	margin-right: 50px;
+}
+
+.foot1 {
+	display: flex;
+	margin-right: -800px;
+}
+
+.foot2 {
+	display: flex;
+	margin-right: -800px;
+}
+
+.uper {
+	margin-left: 200px;
+	margin-top: -100px;
+
+}
+
+.tym {
+	margin-left: -5px;
+	margin-top: 20px;
+}
+
+.spring {
+	margin-left: 190px;
+	margin-top: -20px;
+}
+
+.home1 :hover {
+	color: #37c6a8;
+
+}
+
+.aboutus1:hover {
+	color: #37c6a8;
+}
+
+.services1:hover {
+	color: #37c6a8;
+
+}
+
+.doctor1:hover {
+	color: #37c6a8;
+
+}
+
+.blog1:hover {
+	color: #37c6a8;
+
+}
+
+.contact12:hover {
+	color: #37c6a8;
+
+}
+
+.verticalline {
+	border-left: 1px solid #fff;
+	height: 430px;
+	position: relative;
+
+
+
+}
+
+.horiline {
+	margin-right: 100px;
+
+
+
+}
+
+.lines {
+	width: 900px;
+	position: absolute;
+	left: 450px;
+
+
+
+}
